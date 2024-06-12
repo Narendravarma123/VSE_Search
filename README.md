@@ -24,6 +24,8 @@ environment running
 Say what the step will be
 
     1.Clone the repository  using git clone command
+    2.Unzip the eco folder 
+    3.I will provide you the google drive link where you can find the image folder .Download it and unzip it and paste the folder in the static folder in the eco/eco/static
     2.Now create a virtual environment 
     3.Install the requirements.txt using the command 
       pip install -r requirements.txt
